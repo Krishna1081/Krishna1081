@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna1081&label=Profile%20views&color=0e75b6&style=flat" alt="krishna1081" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Frontend Libraries, Kotlin**
+- 🌱 I’m currently learning **Python, Flutter, Frontend Libraries**
 
 - 📫 How to reach me **Krishna11082003@gmail.com**
 
